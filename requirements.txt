@@ -1,0 +1,5 @@
+openvino
+opencv-python
+pyqt5
+psutil
+numpy
